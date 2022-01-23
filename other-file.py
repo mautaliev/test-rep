@@ -1,3 +1,3 @@
 a = 1
 b = a
-print(id(b))
+print(id(b), id(a))
